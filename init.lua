@@ -24,6 +24,8 @@ require('lazy').setup({
   -- Git related plugins
   'tpope/vim-fugitive',
   'tpope/vim-rhubarb',
+  -- leader key + gm to launch Git-messenger
+  'rhysd/git-messenger.vim',
 
   -- Detect tabstop and shiftwidth automatically
   'tpope/vim-sleuth',
